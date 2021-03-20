@@ -1,0 +1,7 @@
+@import 'variables';
+
+.#{$ns}-container {
+  margin: 0 auto;
+  max-width: rem(1005px);
+  width: 100%;
+}
